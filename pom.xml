@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>instagram-snapshot</name>
-	      <url><http://13.233.10.181:8081/repository/Instagram-snapshot/</url>
+	      <url>http://13.233.10.181:8081/repository/Instagram-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
